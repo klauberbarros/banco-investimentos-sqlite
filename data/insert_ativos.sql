@@ -1,0 +1,2 @@
+-- SQL Script gerado automaticamente para fins de estrutura
+-- Arquivo: insert_ativos.sql
