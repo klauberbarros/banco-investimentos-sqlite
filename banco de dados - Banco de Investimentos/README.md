@@ -1,4 +1,11 @@
 # Banco de Dados de Investimentos
+#Equipe do Projeto
+#Amanda Rodrigues 
+#Fernando Aureliano 
+#Klauber Barros 
+#Lucas Cabral 
+#Lucas Santana 
+#Marry Genez 
 
 ## Visão Geral do Projeto
 
